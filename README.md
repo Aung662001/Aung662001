@@ -18,22 +18,22 @@
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/winn-myo-aung-9ba821213/))
+- [Email](mailto:winnmyoaung49@gmail.com)
 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created a new repository [Aung662001/new-repo](https://github.com/Aung662001/new-repo)
-2. 💪 Opened a PR in [another-repo](https://github.com/another-repo/another-repo/pull/1)
+1. 🎉 Created a new repository [Aung662001/new-repo](https://github.com/Aung662001/MonicareCsharpWebApi)
+<!-- 2. 💪 Opened a PR in [another-repo](https://github.com/another-repo/another-repo/pull/1)
 3. 📝 Updated the README in [yet-another-repo](https://github.com/yet-another-repo/yet-another-repo)
 <!--END_SECTION:activity-->
 
 ## Projects
 
-- **[Project Name](https://github.com/Aung662001/project-repo)**: Brief description of your project.
-- **[Another Project](https://github.com/Aung662001/another-project)**: Brief description of another project.
+- **[Inventory Management Rest Api](https://github.com/Aung662001/MonicareCsharpWebApi)**: This contain tracking stock,tracking cash,sale,purchase,stock opening,adjustment,etc...
+- **[HMS Android With React Native](https://github.com/Aung662001/another-project)**: Hospital Management App With React native.
+- **[HMS API With Express](https://github.com/Aung662001/another-project)**: Hospital Management REST api with express js
 
 ## Achievements
 
